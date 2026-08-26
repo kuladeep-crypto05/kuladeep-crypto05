@@ -1,6 +1,5 @@
 # 💫 About Me:
- 👨‍🎓 B.Tech student passionate about coding.<br><br>🚀 Currently working on my first project.<br><br>💻 Exploring Java and web development.<br><br>🛠️ Learning GitHub basics and repository management.<br><br>📚 Interested in Java Fullstack<br><br>🔧 Debugging code and improving problem-solving skills.<br><br>🌱 Growing knowledge in full stack development.<br><br>🎯 Focused on building strong programming foundations.<br><br>🧩 Enthusiastic about open-source collaboration.<br><br>✨ Student developer eager to learn and share.
-
+ 👨‍🎓 B.Tech student passionate about coding.<br><br>🚀 Currently working on my first project.<br><br>💻 Exploring Java and web development.<br><br>📚 Interested in Java Fullstack<br><br>🔧 Debugging code and improving problem-solving skills.<br><br>🌱 Growing knowledge in full stack development.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deep_exe_764?igsi=MXh4NHp5emQyMWc5aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kuladeep-arakala-14a8ba399/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepcodepad@gmail.com) 
